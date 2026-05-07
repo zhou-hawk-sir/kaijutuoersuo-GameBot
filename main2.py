@@ -17,7 +17,7 @@ END_X, END_Y = 1856, 913
 COLS, ROWS = 10, 16
 
 # 3. Kimi (Moonshot) API 配置
-KIMI_API_KEY = "sk-nujP3L1QJBxOk6fRzjmMCkIxJgpd1hGAhYF8dqZiRvyoSrWQ"
+KIMI_API_KEY = "your_api_key"
 # ==========================================
 
 # 计算每个格子的步长
